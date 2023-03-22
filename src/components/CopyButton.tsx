@@ -24,7 +24,7 @@ const CopyButton: FC<CopyButtonProps> = ({
 
         toast({
           title: 'Copied',
-          message: 'API key copied to clipboard',
+          message: 'API key copied to clipboard please',
           type: 'success',
         })
       }}
